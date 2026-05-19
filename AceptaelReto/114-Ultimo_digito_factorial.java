@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio114 {
+public class Ejercicio114 { // HERMANO VAYA MIERDA
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
